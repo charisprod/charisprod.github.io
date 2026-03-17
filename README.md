@@ -39,7 +39,7 @@ Without valid credentials, requests will return `401 Unauthorized`.
 
 | Plan       | Price         | Notes                                                          |
 | ---------- | ------------- | -------------------------------------------------------------- |
-| Free       | Free          | 7-day trial                                                    |
+| Free       | Free          | 14-day trial                                                    |
 | PRO        | 2,700k IDR/year | Full access to all endpoints, priority support, faster caching |
 | Enterprise | Contact Sales | SLA, dedicated IP, and custom caching rules                    |
 
