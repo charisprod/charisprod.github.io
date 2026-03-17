@@ -40,7 +40,7 @@ Without valid credentials, requests will return `401 Unauthorized`.
 | Plan       | Price         | Notes                                                          |
 | ---------- | ------------- | -------------------------------------------------------------- |
 | Free       | Free          | 7-day trial                                                    |
-| PRO        | 500k IDR/mo   | Full access to all endpoints, priority support, faster caching |
+| PRO        | 2,700k IDR/year | Full access to all endpoints, priority support, faster caching |
 | Enterprise | Contact Sales | SLA, dedicated IP, and custom caching rules                    |
 
 ---
@@ -53,5 +53,6 @@ Detailed integration guides with code examples:
 - [Weather Data Fetching](https://charisprod.xyz/apis/weather)
 - [Spotify Music Integration](https://charisprod.xyz/apis/spotify)
 - [ICD-10 WHO](https://charisprod.xyz/apis/icd-10)
+- [Read All Docs](https://charisprod.xyz/overview)
 
 Built with charm, beauty, and a touch of creativity ✨
